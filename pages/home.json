@@ -1,0 +1,35 @@
+{
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Badge",
+      "nodeName": "bln-badge",
+      "ownerName": null,
+      "type": "core-component"
+    },
+    {
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "c1",
+      "nodeName": "c1",
+      "ownerId": "6afe8985a78f16cf04bafca4",
+      "ownerType": "app",
+      "resourceIdentity": "components/a/c1",
+      "type": "custom-component"
+    }
+  ],
+  "name": "home",
+  "params": {},
+  "type": "page",
+  "url": "/home",
+  "variables": []
+}

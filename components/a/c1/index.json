@@ -1,0 +1,26 @@
+{
+  "bindings": [],
+  "children": [
+    {
+      "attributes": [
+        {
+          "property": "core",
+          "value": ""
+        }
+      ],
+      "children": [],
+      "classList": [],
+      "expressions": [],
+      "name": "Breadcrumbs",
+      "nodeName": "bln-breadcrumbs",
+      "ownerName": null,
+      "type": "core-component"
+    }
+  ],
+  "modules": [],
+  "name": "c1",
+  "parentDirectoryId": "_a0awe1HzLg-zOpKMJre5",
+  "styles": [],
+  "type": "custom-component",
+  "variables": []
+}
